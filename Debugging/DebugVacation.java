@@ -1,11 +1,11 @@
-public class DebugVacation
+class DebugVacation
 {
-   private int days;
-   public DebugVacation()
+   int days;
+   DebugVacation()
    {
       days = 10;
    }
-   public int getDays()
+   int getDays()
    {
       return days;
    }
